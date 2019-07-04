@@ -1,4 +1,4 @@
 name: Joe Giuffrida
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 permalink: /blog/:year/:month/:day/:title
