@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Joe Giuffrida, Launches Blog"
 date: 2019-06-26
 ---
 
