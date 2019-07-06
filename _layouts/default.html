@@ -27,21 +27,26 @@
 	    
        li {
             display: inline;
-	    float: left;
 	    padding: 8px;
 	  }
        li a {
 	       color: white;
 	    }
-  .active {
-  	    background-color: #0d7843;
-          }
   .navi {
         float: left
         }
   .contact {
         float: right
         }
+	    
+  li a:hover:not(.active) {
+     background-color: #111;
+  }
+
+   .active {
+     background-color: #0d7843;
+    }
+	    
     </style>
   </head>
   <body>
@@ -57,15 +62,15 @@
       {% endif %}	
       <nav>
     	<ul style="list-style-type:none;" class="navi">
-	  <li><a href="/">Home</a></li>
-	  <li><a href="/about">About</a></li>
-          <li><a href="/cv">CV</a></li>
-          <li><a href="/blog">Blog</a></li>
+	  <li><a class="active" href="/">Home</a></li>
+	  <li><a class="active" href="/about">About</a></li>
+          <li><a class="active" href="/cv">CV</a></li>
+          <li><a class="active" href="/blog">Blog</a></li>
     	</ul>
       </nav>
-      <ul style="list-style-type:none;">
-         <li><a href="mailto:giuffridajoe@gmail.com">email</a></li>
-         <li><a href="https://github.com/giuffridajoe">github.com/giuffridajoe</a></li>
+      <ul style="list-style-type:none;" class="contact">
+         <li><a class="active" href="mailto:giuffridajoe@gmail.com">email</a></li>
+         <li><a class="active" href="https://github.com/giuffridajoe">github.com/giuffridajoe</a></li>
       </ul>
     </header>
 
