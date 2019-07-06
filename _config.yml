@@ -1,4 +1,6 @@
 name: Joe Giuffrida
+title: Joe Giuffrida
+description: A Software Developer
 markdown: kramdown
 theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
