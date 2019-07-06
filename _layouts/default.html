@@ -21,9 +21,12 @@
     <style>	    
        li {
             display: inline;
-	    padding: 8px;
-	    color: white;
+	    padding: 8px;	    
 	  }
+	    
+	li a {
+	color: white;
+	}
 	    
   .navi {
         float: left	
@@ -51,8 +54,8 @@
       {% endif %}	
       <nav>
     	<ul style="list-style-type:none;" class="navi active">
-	  <li><a href="/">Home</a></li>
-	  <li><a href="/about">About</a></li>
+	  <li a{color:white}><a href="/">Home</a></li>
+	  <li a{color:white}><a href="/about">About</a></li>
           <li><a href="/cv">CV</a></li>
           <li><a href="/blog">Blog</a></li>
     	</ul>
