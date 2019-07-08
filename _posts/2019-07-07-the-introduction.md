@@ -13,6 +13,6 @@ I'm into all types of technology including smart home devices, Apple, Raspberry 
 
 As mentioned in my first post, this is my first blog. I will mainly be writing for self-improvement and satisfaction. I'll be learning as I go. I think it will be fun to end each post with a quote from a movie. Here's the first:
 
-"Why don't we just wait here for a little while... see what happens..." - Kurt Russell in The Thing.
+"Why don't we just wait here for a little while... see what happens..." - Kurt Russell - The Thing.
 
-So long... partner.
+"So long... partner." Tom Hanks - Toy Story 3.
