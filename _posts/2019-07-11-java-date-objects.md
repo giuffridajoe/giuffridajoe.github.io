@@ -30,11 +30,14 @@ Both calendar fields produce the __same__ result - *Sun Jul 14 21:26:47 EDT 2019
 > -- Benjamin Franklin
 
 I just feel that manipulating the date or time should be a lot quicker and abstracted from the developer. Thanks to __AlBlue__ on StackOverflow for describing the 5 main problems with dates in Java (Refer to [AlBlue's full response on SO](https://stackoverflow.com/questions/1969442/whats-wrong-with-java-date-time-api) explaining each of the points below in more detail):
-> Years are rated as two digits
-> Months are indexed with 0
-> They're mutable and can be changed if not properly protected
-> They don't work well with SQL
-> They are not representative of a timezone
+
+```
+Years are rated as two digits
+Months are indexed with 0
+They're mutable and can be changed if not properly protected
+They don't work well with SQL
+They are not representative of a timezone
+```
 
 *Fast forward to Java 8* - enter the new [Date/Time API](https://www.baeldung.com/java-8-date-time-intro). Although I have not been able to work with that API yet, this still seems like too much effort.  
 
