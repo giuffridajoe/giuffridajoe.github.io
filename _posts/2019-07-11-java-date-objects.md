@@ -42,4 +42,4 @@ They are not representative of a timezone
 *Fast forward to Java 8* - enter the new [Date/Time API](https://www.baeldung.com/java-8-date-time-intro). Although I have not been able to work with that API yet, this still seems like too much effort.  
 
 > So long... partner.
-> Tom Hanks
+> -- Tom Hanks
