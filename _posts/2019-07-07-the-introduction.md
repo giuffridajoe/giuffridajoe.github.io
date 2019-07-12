@@ -11,8 +11,8 @@ Now that we've been introduced, let me tell you more about myself and what this 
 
 I'm into all types of technology including smart home devices, Apple, Raspberry Pi, and home theater to name a few. I never got into gaming that much, mostly because I have terrible hand-eye coordination. I'm also into movies, fantasy football, poker, and podcasts.
 
-As mentioned in my first post, this is my first blog. I will mainly be writing for self-improvement and satisfaction. I'll be learning as I go. I think it will be fun to end each post with a quote from a movie. Here's the first:
+As mentioned in my first post, this is my first blog. I think it will be fun to include a movie quote or two in each of my posts one way or another. This one seems relevant at the moment: "Why don't we just wait here for a little while... see what happens..." - Kurt Russell - The Thing.
 
-"Why don't we just wait here for a little while... see what happens..." - Kurt Russell - The Thing.
+I will mainly be writing for self-improvement and satisfaction. I'll be learning as I go. 
 
-"So long... partner." Tom Hanks - Toy Story 3.
+"So long... partner." Tom Hanks - Toy Story.
