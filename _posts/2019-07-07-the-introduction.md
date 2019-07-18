@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2019-07-07
+categories: general
 ---
 
 <div class="blurb">
