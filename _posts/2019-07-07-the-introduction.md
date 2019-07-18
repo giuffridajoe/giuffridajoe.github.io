@@ -21,7 +21,6 @@ I will mainly be writing for self-improvement and satisfaction. I'll be learning
 > "So long... partner." (Toy Story)
 
 <br><br><br>
-##### Works Cited
-> *The Thing.* Dir. John Carpenter. Universal Pictures, 1982. Film.
-
-> *Toy Story 3.* Dir. Lee Unkrich.  Walt Disney Pictures, Pixar Animation Studios, 2010. Film.
+##### Works Cited:
+*The Thing.* Dir. John Carpenter. Universal Pictures, 1982. Film.<br>
+*Toy Story 3.* Dir. Lee Unkrich.  Walt Disney Pictures, Pixar Animation Studios, 2010. Film.
