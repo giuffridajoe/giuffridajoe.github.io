@@ -28,8 +28,7 @@ cal.add(Calendar.DAY_OF_MONTH, 3);
 
 Both calendar fields produce the __same__ result - *Sun Jul 14 21:26:47 EDT 2019*. So why do both exist? Can we be sure that `Calendar.DAY_OF_MONTH` will roll over to the next month or would it just stop incrementing the day when it hit the end of the month set on the object? Apparently, they both work the same - so one should be deprecated!
 
-> Why so serious?
-> -- Heath Ledger
+> Why so serious? (The Dark Knight)
 
 ### __The Problem(s)__
 I just feel that manipulating the date or time should be a lot quicker and abstracted from the developer. Thanks to __AlBlue__ on StackOverflow for describing the 5 main problems with dates in Java (Refer to [AlBlue's full response on SO](https://stackoverflow.com/questions/1969442/whats-wrong-with-java-date-time-api) explaining each of the points below in more detail):
@@ -44,5 +43,10 @@ They are not representative of a timezone
 
 *Fast forward to Java 8* - enter the new [Date/Time API](https://www.baeldung.com/java-8-date-time-intro). Although I have not been able to work with that API yet, this still seems like too much effort.  
 
-> So long... partner.
-> -- Tom Hanks
+> So long... partner. (Toy Story)
+
+<br><br><br>
+#### Works Cited:
+*The Dark Knight.* Dir. Lee Unkrich. Warner Bros (presentation), Legendary Entertainment (in association with), Syncopy, DC Comics, 2008. Film.<br>
+*Toy Story 3.* Dir. Lee Unkrich.  Walt Disney Pictures, Pixar Animation Studios, 2010. Film.
+
