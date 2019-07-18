@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2019-07-11
+categories: software-development
 ---
 
 <div class="blurb">
