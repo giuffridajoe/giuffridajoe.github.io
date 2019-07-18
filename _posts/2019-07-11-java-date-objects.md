@@ -7,6 +7,7 @@ date: 2019-07-11
   <h1>Java Date Objects</h1> 
 </div>
 
+### __Too Little Too Late__
 Why is it that Java has been around for so long, but using date objects is still so difficult? Surely improvements have been made to make our lives easier when working with this object, right? Perhaps the Calendar object will help! Not. 
 
 ```java
@@ -29,6 +30,7 @@ Both calendar fields produce the __same__ result - *Sun Jul 14 21:26:47 EDT 2019
 > Why so serious?
 > -- Heath Ledger
 
+### __The Problem(s)__
 I just feel that manipulating the date or time should be a lot quicker and abstracted from the developer. Thanks to __AlBlue__ on StackOverflow for describing the 5 main problems with dates in Java (Refer to [AlBlue's full response on SO](https://stackoverflow.com/questions/1969442/whats-wrong-with-java-date-time-api) explaining each of the points below in more detail):
 
 ```
