@@ -48,10 +48,11 @@ They are not representative of a timezone
 <br><br>
 #### Works Cited:
 <p id="worksCited"></p>
+
 <script>
 document.getElementById("worksCited").innerHTML = printWorksCited(['The Dark Knight'],['Christopher Nolan'],['Warner Bros (presentation), Legendary Entertainment (in association with), Syncopy, DC Comics'],['2008']);
 </script>
 
-*The Dark Knight.* Dir. Christopher Nolan. Warner Bros (presentation), Legendary Entertainment (in association with), Syncopy, DC Comics, 2008. Film.<br>
+*The Dark Knight.* Dir. Christopher Nolan. Warner Bros (presentation), Legendary Entertainment (in association with), Syncopy, DC Comics, 20088. Film.<br>
 *Toy Story 3.* Dir. Lee Unkrich.  Walt Disney Pictures, Pixar Animation Studios, 2010. Film.
 
