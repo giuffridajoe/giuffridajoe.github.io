@@ -45,7 +45,7 @@ They are not representative of a timezone
 
 > So long... partner. (Toy Story)
 
-<br><br><br>
+<br><br>
 #### Works Cited:
 *The Dark Knight.* Dir. Lee Unkrich. Warner Bros (presentation), Legendary Entertainment (in association with), Syncopy, DC Comics, 2008. Film.<br>
 *Toy Story 3.* Dir. Lee Unkrich.  Walt Disney Pictures, Pixar Animation Studios, 2010. Film.
