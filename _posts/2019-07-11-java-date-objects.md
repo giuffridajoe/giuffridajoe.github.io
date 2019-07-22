@@ -47,17 +47,6 @@ They are not representative of a timezone
 
 <br><br>
 #### Works Cited:
-<p id="worksCited"></p>
-
-<script>
-  var titles = ['The Dark Knight', 'Joe's Movie'];
-  var directors = ['Christopher Nolan', 'Joe'];
-  var producers = ['Warner Bros (presentation), Legendary Entertainment (in association with), Syncopy, DC Comics', 'Joe's            Producers'];
-  var yearsMade = ['2008','2019'];
-  
-  document.getElementById("worksCited").innerHTML = printWorksCited(title,directors,producers,yearsMade);
-</script>
-
 *The Dark Knight.* Dir. Christopher Nolan. Warner Bros (presentation), Legendary Entertainment (in association with), Syncopy, DC Comics, 2008. Film.<br>
 *Toy Story 3.* Dir. Lee Unkrich.  Walt Disney Pictures, Pixar Animation Studios, 2010. Film.
 
