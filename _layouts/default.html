@@ -12,13 +12,14 @@
       </script>
 	  
       <script>
-	function myFunction(x, y) {
-  	   if (y === undefined) {
-    	      y = 0;
+	function printWorksCited(titles, directors, producers, yearsMade) {
+	   var i;
+	   var returnText = "";
+	   for (i = 0; i < titles.length; i++) {
+ 	      returnText += "*" +titles[i] +"* Dir. " +directors[i] +". " +producers[i] +", " +yearsMade[i] ". Film.<br>";
 	   }
-  	   return x * y;
+	   return returnText;
 	}	      
-	document.getElementById("demo").innerHTML = myFunction(4);
       </script>
 	  
 	  
