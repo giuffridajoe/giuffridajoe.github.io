@@ -4,4 +4,4 @@ description: A Software Developer
 markdown: kramdown
 theme: jekyll-theme-cayman
 permalink: /blog/:categories/:title
-baseurl: /giuffridajoe.github.io
+baseurl: giuffridajoe.github.io
