@@ -17,9 +17,7 @@ Back then, the HDMI spec had just been released and TVs started shipping with th
 Ironically, HDMI regressed a bit in terms of the number of physical cables used and went back to one cable. But, this cable was different - it was digital! ~~That meant there is no interference like with analog cables and could, therefore, be stuffed into one cable.~~ The technology had progresed such that certain advancements reduced/eliminated the interference from the cables of old. Thus enabling the reduction in cable count, **plus** it put an end to the need for separate audio cables too. So, going back to one cable was for the best.
 
 ### __Advanced Technology, Complex Resolution?__
-One day while at my friend's house (I was there all the time), his dad was having some trouble with his newfangled TV and couldn't get any signal from the HDMI input. My friend facetiously stated I might be able to help. What do you think I did? I pulled out the HDMI cable, then... I... plugged it back in. Yup, that's all that was needed. From that point on, I became known as:
-
-<div style="text-align:center">`The TV Repair Man</div>
+One day while at my friend's house (I was there all the time), his dad was having some trouble with his newfangled TV and couldn't get any signal from the HDMI input. My friend facetiously stated I might be able to help. What do you think I did? I pulled out the HDMI cable, then... I... plugged it back in. Yup, that's all that was needed. From that point on, I became known as: <b><i>The TV Repair Man</i></b>.
 
 ### __Present Day__
 This friend contacted me a week or two ago for - you guess it - TV advice. He's in the market for a new one and rightfully sought my advice. I like to keep myself up to date with this stuff even though I am not in the market (I have a LG OLEDC6). He had some strict requirements for his purchase (in order of importance):
