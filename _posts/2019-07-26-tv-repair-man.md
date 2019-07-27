@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-07-11
+date: 2019-07-26
 categories: technology
 ---
 
