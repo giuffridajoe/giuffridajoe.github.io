@@ -29,7 +29,7 @@ This friend contacted me a week or two ago for - you guess it - TV advice. He's 
 3. Above average HDR performance<br>
 4. Under $2000
 
-There arent that many solid choices in the category defined above. Most often TV's that large cost more than that. But long story short, his new Vizio P Series Quantum was delivered today. (**disclaimer** - this post is in no way affiliated with any TV manufacturer, nor is it claiming one TV technology is better than the other)
+There arent that many solid choices in a category like this. Most often TV's that large cost more than that. But long story short, his new Vizio P Series Quantum was delivered today. (**disclaimer** - this post is in no way affiliated with any TV manufacturer, nor is it claiming one TV technology is better than the other)
 
 The following sources were used in the making of this post:<br>
 [RCA/Component Cables](https://www.techwalla.com/articles/what-do-the-colors-mean-on-the-rca-cables)<br>
