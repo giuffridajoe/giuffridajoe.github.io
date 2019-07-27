@@ -24,9 +24,9 @@ One day while at my friend's house (I was there all the time), his dad was havin
 ### __Present Day__
 This friend contacted me a week or two ago for - you guess it - TV advice. He's in the market for a new one and rightfully sought my advice. I like to keep myself up to date with this stuff even though I am not in the market (I have a LG OLEDC6). He had some strict requirements for his purchase (in order of importance):
 
-1. Screen size of 70-75in
-2. Low input lag for gaming
-3. Above average HDR performance
+1. Screen size of 70-75in<br>
+2. Low input lag for gaming<br>
+3. Above average HDR performance<br>
 4. Under $2000
 
 There arent that many solid choices in the category defined above. Most often TV's that large cost more than that. But long story short, his new Vizio P Series Quantum was delivered today. (**disclaimer** - this post is in no way affiliated with any TV manufacturer, nor is it claiming one TV technology is better than the other)
