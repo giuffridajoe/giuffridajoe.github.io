@@ -8,7 +8,12 @@ categories: development
   <h1>Coding Pet Peeves</h1> 
 </div>
 
-
+bad variable names
+doing too much in a stream
+not enough logging
+bad comments
+not updating comments as development goes along
+no unit tests
 
 > So long... partner. (Toy Story)
 
