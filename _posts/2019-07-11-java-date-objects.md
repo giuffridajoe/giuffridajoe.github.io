@@ -26,7 +26,7 @@ Or..
 cal.add(Calendar.DAY_OF_MONTH, 3);
 ```
 
-Both calendar fields produce the __same__ result - *Sun Jul 14 21:26:47 EDT 2019*. So why do both exist? Can we be sure that `Calendar.DAY_OF_MONTH` will roll over to the next month or would it just stop incrementing the day when it hit the end of the month set on the object? Apparently, they both work the same - so one should be deprecated!
+Both calendar fields produce the __same__ result - *Sun Jul 14 21:26:47 EDT 2019*. So why do both exist? Can we be sure that `Calendar.DAY_OF_MONTH` will roll over to the next month or would it just stop incrementing the day when it hit the end of the month set on the object? They both work the same - so one should be deprecated!
 
 > Why so serious? (The Dark Knight)
 
